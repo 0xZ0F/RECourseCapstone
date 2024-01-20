@@ -142,6 +142,9 @@
     <ClCompile Include="Server.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\IOCP\ServerLib\ServerLib.vcxproj">
+      <Project>{7c4bb324-61c1-4015-bbec-bdd88e31c353}</Project>
+    </ProjectReference>
     <ProjectReference Include="..\Common\Common.vcxproj">
       <Project>{b0b18f40-b9ec-407b-bd1f-fff9a02b8f1a}</Project>
     </ProjectReference>

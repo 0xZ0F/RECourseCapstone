@@ -15,3 +15,9 @@ This project is intended to be black-box reverse engineered. The following are s
     * Since custom encryption is used, a client/server from the ground up is accepted. However, a client/server which hijacks the existing binary is intended.
 
 Of course, this project can be approached in any way, however, there is an accompanying course to go with this project which is intended to be used.
+
+## Building
+
+1. `git clone --recursive <URL>`
+2. Open in Visual Studio 2022.
+3. Click the build button.
